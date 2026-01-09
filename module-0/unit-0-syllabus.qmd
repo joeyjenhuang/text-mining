@@ -406,5 +406,3 @@ While I encourage the integration of GenAI in your learning experience, there ar
     A study that applies topic modeling to automatically discover learner interests in open learning environments.
 
 #### Unit 4
-
-Coming soon!
