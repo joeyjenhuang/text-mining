@@ -2,7 +2,7 @@
 title-block-banner: false
 title: "Course Syllabus"
 subtitle: "ECI 588: Text Mining in Education"
-author: "Dr. Shaun Kellogg"
+author: "Dr. Joey Huang"
 date: today
 format:
   html:
@@ -142,59 +142,59 @@ The following learning objectives are aligned with the overarching learning obje
 
 This course is divided into four **Units** introducing common and progressively advanced text mining techniques, including their applications in educational contexts. Each unit last three weeks. The first week introduces terminology, core concepts, and applications of Text Mining through course **Readings & Discussion**. The second week of each unit focuses on developing the technical skills necessary for exploratory analysis through a guided **Case Study** that illustrates a text mining analytic workflow in R using data from an educational context. During the third week, students in the GLCA program will apply these skills by conducting a simple, self-directed **Independent Analysis** while students new to R will further develop their fluency with text mining techniques through datacamp **R Tutorials.** In lieu of a final exam, students will develop a **Data Product** (e.g. report, presentation, data dashboard, etc.) that demonstrates their ability to independently analyze text as data.
 
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Schedule**   | **Topics**                                                                                                                                                                                               |
-+================+==========================================================================================================================================================================================================+
-| **WELCOME**    | **OVERVIEW & INTRODUCTIONS**                                                                                                                                                                             |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 1         | Introductions, syllabus review, and software setup                                                                                                                                                       |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **UNIT 1**     | **TEXT AS DATA**                                                                                                                                                                                         |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 2         | **Readings & Discussion:** Introduction to text mining data sources, basic concepts and applications in educational contexts.                                                                            |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 3         | **Case Study**: An introduction to "tidy" text, performing basic word counts, and examining words unique to specific document groups.                                                                    |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 4         | **Independent Analysis (GCLA)**: A demonstration of your ability to tokenize text, perform basic analyses, and summarize findings.                                                                       |
-|                |                                                                                                                                                                                                          |
-|                | **R Tutorials (R Beginners)**: Datacamp tutorials on text mining basics like preprocessing text and producing word counts.                                                                               |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **UNIT 2**     | **DICTIONARY-BASED METHODS**                                                                                                                                                                             |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 5         | **Readings & Discussion:** Introduction to dictionary-based methods and sentiment anlysis, including applications in education contexts.                                                                 |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 6         | **Case Study**: Introduction to dictionary-based methods in R with an emphasis on sentiment analysis using three common lexicons.                                                                        |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 7         | **Independent Analysis (GCLA)**: A demonstration of your ability to conduct a basic sentiment analysis and summarize findings.                                                                           |
-|                |                                                                                                                                                                                                          |
-|                | **Datacamp Tutorials (R Beginners)**: Completion of datacamp tutorials on sentiment analysis.                                                                                                            |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **UNIT 3**     | **TOPIC MODELING**                                                                                                                                                                                       |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 8         | **Readings & Discussion:** Introduction to "bag-of-words" and topic modeling techniques, including applications in educational contexts.                                                                 |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 9         | **Case Study**: An introduction to Topic Modeling with R, an automated approach to classifying texts or documents.                                                                                       |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 10        | **Independent Analysis (GCLA)**: A demonstration of your ability to conduct basic topic modeling and summarize findings.                                                                                 |
-|                |                                                                                                                                                                                                          |
-|                | **Datacamp Tutorials (R Beginners)**: Completion of datacamp tutorials on sentiment analysis.                                                                                                            |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **UNIT 4**     | **TEXT AS NETWORKS**                                                                                                                                                                                     |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 11        | **Readings & Discussion:** Introduction to analyzing text from a network perspective, including applications in education research.                                                                      |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 12        | **Case Study**: An introduction to text networks and epistemic network analysis with R.                                                                                                                  |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 13        | **Independent Analysis (GCLA)**: A demonstration of your ability to analyze text as networks and summarize findings.                                                                                     |
-|                |                                                                                                                                                                                                          |
-|                | **Datacamp Tutorials (R Beginners)**: Completion of datacamp tutorials on text networks.                                                                                                                 |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **FINAL EXAM** | **PROJECT PLANNING & DATA PRODUCT**                                                                                                                                                                      |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 14        | **Project Planning:** Planning week to identify a text-based data set for analysis and conceptualize how you will analyze and share findings from your analysis.                                         |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 15        | **Data Product:** In lieu of a final exam, students will develop a data product (e.g. report, presentation, data dashboard, etc.) that demonstrates your ability to independently analyze text as data.  |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Schedule**   | **Topics**                                                                                                                                                                                              |
++================+=========================================================================================================================================================================================================+
+| **WELCOME**    | **OVERVIEW & INTRODUCTIONS**                                                                                                                                                                            |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 1         | Introductions, syllabus review, and software setup                                                                                                                                                      |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **UNIT 1**     | **TEXT AS DATA**                                                                                                                                                                                        |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 2         | **Readings & Discussion:** Introduction to text mining data sources, basic concepts and applications in educational contexts.                                                                           |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 3         | **Case Study**: An introduction to "tidy" text, performing basic word counts, and examining words unique to specific document groups.                                                                   |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 4         | **Independent Analysis (GCLA)**: A demonstration of your ability to tokenize text, perform basic analyses, and summarize findings.                                                                      |
+|                |                                                                                                                                                                                                         |
+|                | **R Tutorials (R Beginners)**: Datacamp tutorials on text mining basics like preprocessing text and producing word counts.                                                                              |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **UNIT 2**     | **DICTIONARY-BASED METHODS**                                                                                                                                                                            |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 5         | **Readings & Discussion:** Introduction to dictionary-based methods and sentiment anlysis, including applications in education contexts.                                                                |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 6         | **Case Study**: Introduction to dictionary-based methods in R with an emphasis on sentiment analysis using three common lexicons.                                                                       |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 7         | **Independent Analysis (GCLA)**: A demonstration of your ability to conduct a basic sentiment analysis and summarize findings.                                                                          |
+|                |                                                                                                                                                                                                         |
+|                | **Datacamp Tutorials (R Beginners)**: Completion of datacamp tutorials on sentiment analysis.                                                                                                           |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **UNIT 3**     | **TOPIC MODELING**                                                                                                                                                                                      |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 8         | **Readings & Discussion:** Introduction to "bag-of-words" and topic modeling techniques, including applications in educational contexts.                                                                |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 9         | **Case Study**: An introduction to Topic Modeling with R, an automated approach to classifying texts or documents.                                                                                      |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 10        | **Independent Analysis (GCLA)**: A demonstration of your ability to conduct basic topic modeling and summarize findings.                                                                                |
+|                |                                                                                                                                                                                                         |
+|                | **Datacamp Tutorials (R Beginners)**: Completion of datacamp tutorials on sentiment analysis.                                                                                                           |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **UNIT 4**     | **TEXT AS NETWORKS**                                                                                                                                                                                    |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 11        | **Readings & Discussion:** Introduction to analyzing text from a network perspective, including applications in education research.                                                                     |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 12        | **Case Study**: An introduction to text networks and epistemic network analysis with R.                                                                                                                 |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 13        | **Independent Analysis (GCLA)**: A demonstration of your ability to analyze text as networks and summarize findings.                                                                                    |
+|                |                                                                                                                                                                                                         |
+|                | **Datacamp Tutorials (R Beginners)**: Completion of datacamp tutorials on text networks.                                                                                                                |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **FINAL EXAM** | **PROJECT PLANNING & DATA PRODUCT**                                                                                                                                                                     |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 14        | **Project Planning:** Planning week to identify a text-based data set for analysis and conceptualize how you will analyze and share findings from your analysis.                                        |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 15        | **Data Product:** In lieu of a final exam, students will develop a data product (e.g. report, presentation, data dashboard, etc.) that demonstrates your ability to independently analyze text as data. |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Major Assignments & Assessment
 
@@ -300,7 +300,7 @@ While I encourage the integration of GenAI in your learning experience, there ar
 
 ## References & Readings
 
-### Unit 1 
+### Unit 1
 
 #### Introductory Readings (Choose 2)
 
@@ -318,7 +318,7 @@ While I encourage the integration of GenAI in your learning experience, there ar
 
 7.  Prato, S. (2013). What is text mining? Retrieved from <http://infospace.ischool.syr.edu/2013/04/23/what-is-text-mining/>
 
-#### Text Mining in Education (Optional) 
+#### Text Mining in Education (Optional)
 
 1.  Galyardt, A., Aleahmad, T., Fienberg, S., Junker, B., & Hargadon, S. (2009). Analysis of a Web- based Network of Educators, 1–31. Retrieved from <http://www.stat.cmu.edu/tr/tr878/tr878.pdf>
 
@@ -344,7 +344,7 @@ While I encourage the integration of GenAI in your learning experience, there ar
 
 12. Turnitin. (2014). Turnitin Revision Assistant results from the classroom : Pilot study review. 6
 
-### Unit 2 
+### Unit 2
 
 #### Dictionary Methods (Chose 1)
 
@@ -356,7 +356,7 @@ While I encourage the integration of GenAI in your learning experience, there ar
 
 4.  Gupta, S. (2018). Reasons to replace dictionary based text mining with machine learning techniques. Retrieved from <https://hackernoon.com/reasons-to-replace-dictionary-based-text-> mining-with-machine-learning-techniques-27537835e1bf
 
-#### Sentiment Analysis & LIWC (Optional) 
+#### Sentiment Analysis & LIWC (Optional)
 
 1.  MonkeyLearn. (n.d.). Sentiment analysis: Nearly Everything you need to know. Retrieved February 3, 2019, from <https://monkeylearn.com/sentiment-analysis>
 
@@ -370,9 +370,9 @@ While I encourage the integration of GenAI in your learning experience, there ar
 
 6.  Johar, I. (2016). LIWC Text Analysis Tutorial. Retrieved from <https://youtu.be/lzuMukv8Ql4>
 
-### Unit 3 
+### Unit 3
 
-#### Introductory Readings & Resources (All required) 
+#### Introductory Readings & Resources (All required)
 
 1.  Brett, M. R. (2012). Topic modeling: A basic introduction. *Journal of digital humanities*, *2*(1), 2-1. <https://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/>
 
@@ -380,22 +380,22 @@ While I encourage the integration of GenAI in your learning experience, there ar
 
 3.  The "Secret” Recipe for Topic Modeling Themes Matthew Jocker's blog post highlights the importance of preprocessing text and provides some very practical guidelines for topic modeling.
 
-#### Supplementary Readings on Topic Modeling (Choose at least 1) 
+#### Supplementary Readings on Topic Modeling (Choose at least 1)
 
-1.  [Probabilistic Topic Models](https://www.cs.columbia.edu/~blei/papers/Blei2012.pdf) \
+1.  [Probabilistic Topic Models](https://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)\
     Article by David Blei explains some of the basic concepts of topic modeling, including some underlying math and some great visuals.
 
-2.  [Finding structure in xkcd comics with Latent Dirichlet Allocation](https://projects.cpsievert.me/615/xkcd/) \
+2.  [Finding structure in xkcd comics with Latent Dirichlet Allocation](https://projects.cpsievert.me/615/xkcd/)\
     Quick intro and fun example of applying to LDA to a favorite comic of mine
 
-3.  [The LDA Buffet is Now Open](https://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/) \
+3.  [The LDA Buffet is Now Open](https://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/)\
     Short, whimsical blog post by Matthew Jocker explaining LDA for English Marjors Topic Modeling and Figurative Language Lisa M. Rhody explores the productive failure of topic modeling.
 
 4.  Choose your own! Google Scholar or Duck Duck Go
 
-#### Researcher and Practitioner Readings on Topic Modeling in Education (Choose at least 1): 
+#### Researcher and Practitioner Readings on Topic Modeling in Education (Choose at least 1):
 
-1.  [“Twitter Archeology” of Learning Analytics and Knowledge](https://dl.acm.org/doi/10.1145/2723576.2723584) \
+1.  [“Twitter Archeology” of Learning Analytics and Knowledge](https://dl.acm.org/doi/10.1145/2723576.2723584)\
     Conferences Paper exploring the conference tweets through multiple methods including: topic modeling, and descriptive, network, and hashtag analysis.
 
 2.  [Computer-Assisted Reading and Discovery for Student Generated Text in Massive Open Online Courses](https://scholar.harvard.edu/files/dtingley/files/educationwriteup.pdf)\
@@ -407,6 +407,6 @@ While I encourage the integration of GenAI in your learning experience, there ar
 4.  [Using a Learner-Topic Model for Mining Learner Interests in Open Learning Environments](https://www.jstor.org/stable/26388396)\
     A study that applies topic modeling to automatically discover learner interests in open learning environments.
 
-#### Unit 4 
+#### Unit 4
 
 Coming soon!
